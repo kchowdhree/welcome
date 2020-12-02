@@ -1,1 +1,1 @@
-## “Creativity is intelligence having fun.” — Albert Einstein
+# “Creativity is intelligence having fun.” — Albert Einstein
